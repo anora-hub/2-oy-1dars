@@ -1,0 +1,63 @@
+.hero-card-title {
+    color: black;
+}
+
+#hero {
+    margin-top: 220px;
+    align-items: center;
+}
+
+.hero-card-title {
+    padding-top: 120px;
+    padding-left: 50px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.hero-card-desc {
+    padding-left: 50px;
+    padding-top: 20px;
+    size: 40px;
+    font-family: sans-serif;
+}
+
+.hero-card-btn {
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 60px;
+    margin-top: 25px;
+    margin-left: 50px;
+    size: 38px;
+    transition: 0.5s;
+
+
+}
+
+.hero-card-btn:hover {
+    transform: scale(1.1);
+    background-color: burlywood;
+}
+
+.hero-div {
+    display: flex;
+    gap: 300px;
+}
+
+.hero-img {
+    padding-top: 120px;
+    padding-bottom: ;
+
+}
+
+.hero-div2 {
+    margin-top: 20px;
+}
+
+.div-img:hover {
+    transform: scale(1.2);
+}
+
+.div-img {
+    transition: 1s;
+}
